@@ -1,0 +1,12 @@
+{
+  "name": "bsf-model-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
